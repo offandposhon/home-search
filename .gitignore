@@ -1,0 +1,4 @@
+hsearch
+*.pyc
+*.insyncdl
+.env
