@@ -17,6 +17,7 @@
 
 - Gather API keys
   - Unofficial Zillow API via rapid api (https://rapidapi.com/apimaker/api/zillow-com1/details)
+    - (Freemium API)
   - Mapbox Directions API (https://account.mapbox.com/auth/signup/)
 
 - Create virtual environment (optional)
