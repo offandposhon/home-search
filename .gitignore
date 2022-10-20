@@ -2,3 +2,4 @@ hsearch
 *.pyc
 *.insyncdl
 .env
+thumbs.db
